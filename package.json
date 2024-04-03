@@ -1,5 +1,5 @@
 {
-  "name": "ffjavascript",
+  "name": "@railgun-community/ffjavascript",
   "version": "0.1.0",
   "description": "Finite Field Library in Javascript",
   "main": "index.js",
